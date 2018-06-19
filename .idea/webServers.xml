@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bc171467-92bb-4ce8-b30b-b7ad3221171b" name="GetTemp" url="http://18.188.65.219">
+        <fileTransfer host="18.188.65.219" port="22" privateKey="$USER_HOME$/Downloads/win9.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
